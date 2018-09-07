@@ -1,0 +1,17 @@
+﻿  TopSpin.cpp
+c:\users\administrator.182txlrmesy3dbw\documents\visual studio 2015\projects\assingment2\topspin.cpp(30): warning C4018: '<=': signed/unsigned mismatch
+c:\users\administrator.182txlrmesy3dbw\documents\visual studio 2015\projects\assingment2\topspin.cpp(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\administrator.182txlrmesy3dbw\documents\visual studio 2015\projects\assingment2\topspin.cpp(35): warning C4018: '<=': signed/unsigned mismatch
+c:\users\administrator.182txlrmesy3dbw\documents\visual studio 2015\projects\assingment2\cdll.h(51): warning C4018: '<=': signed/unsigned mismatch
+  c:\users\administrator.182txlrmesy3dbw\documents\visual studio 2015\projects\assingment2\cdll.h(43): note: while compiling class template member function 'CDLL<int>::~CDLL(void)'
+  c:\users\administrator.182txlrmesy3dbw\documents\visual studio 2015\projects\assingment2\topspin.cpp(9): note: see reference to function template instantiation 'CDLL<int>::~CDLL(void)' being compiled
+  c:\users\administrator.182txlrmesy3dbw\documents\visual studio 2015\projects\assingment2\topspin.h(13): note: see reference to class template instantiation 'CDLL<int>' being compiled
+c:\users\administrator.182txlrmesy3dbw\documents\visual studio 2015\projects\assingment2\cdll.h(127): warning C4018: '<': signed/unsigned mismatch
+  c:\users\administrator.182txlrmesy3dbw\documents\visual studio 2015\projects\assingment2\cdll.h(121): note: while compiling class template member function 'void CDLL<int>::swap(unsigned int,unsigned int)'
+  c:\users\administrator.182txlrmesy3dbw\documents\visual studio 2015\projects\assingment2\topspin.cpp(58): note: see reference to function template instantiation 'void CDLL<int>::swap(unsigned int,unsigned int)' being compiled
+c:\users\administrator.182txlrmesy3dbw\documents\visual studio 2015\projects\assingment2\cdll.h(131): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  Assingment2.vcxproj -> C:\Users\Administrator.182TXLRMESY3DBW\documents\visual studio 2015\Projects\Assingment2\Debug\Assingment2.exe
+  Assingment2.vcxproj -> C:\Users\Administrator.182TXLRMESY3DBW\documents\visual studio 2015\Projects\Assingment2\Debug\Assingment2.pdb (Full PDB)
